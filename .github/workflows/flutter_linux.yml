@@ -38,7 +38,7 @@ jobs:
             liblzma-dev \
             gobject-introspection \
             cmake-vala \
-            libvala \
+            valac \
             gi-docgen
           git clone https://github.com/AyatanaIndicators/libayatana-appindicator-glib
           cd libayatana-appindicator-glib
