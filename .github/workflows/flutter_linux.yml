@@ -37,7 +37,7 @@ jobs:
             libgtk-3-dev \
             liblzma-dev \
             gobject-introspection \
-            vala \
+            cmake-vala \
             gi-docgen
           git clone https://github.com/AyatanaIndicators/libayatana-appindicator-glib
           cd libayatana-appindicator-glib
